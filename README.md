@@ -21,11 +21,11 @@ Competition URL: [click here](https://www.drivendata.org/competitions/44/dengai-
 
 --- 
 
-## Methodology / Approach (Your Version)
+## Methodology / Approach
 - Data cleaning / preprocessing: Handling missing values (NaNs), type conversions, date parsing amd renamimg columns.
 - Visualizations: line graph, bar graphs, heatmap, baxplot.
-- Models: Random Forest Regression / XGBoost / Linear Regression
-- evaluation: MAE, MSE, R2 score
+- Models: Random Forest Regressor / XGB Regressor / Linear Regression
+- Evaluation: MAE, MSE, R2 score
 - Prediction: Generating weekly case count predictions for both cities for the test set, formatting according to submission requirements: a CSV with columns city, year, weekofyear, total_cases.
 
 ---
